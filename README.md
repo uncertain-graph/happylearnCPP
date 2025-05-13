@@ -4,6 +4,10 @@
 - Import library:
   - #include<libraryname> //a C++ system library
   - #include"libraryname.h" //a local project library
+
+## Namespaces
+- Standard namespace (std):
+   std::cout   std::endl
     
   
 
