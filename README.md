@@ -6,8 +6,12 @@
   - #include"libraryname.h" //a local project library
 
 ## Namespaces
-- Standard namespace (std): <\b>
-   - std::cout   std::endl
+- Standard namespace (std): 
+   - std::cout<<"Text"<< var <<std::endl
+- Define namespace
+- Use namespace
+    - using namespace name;  write below the #include
+    - namespace::identifier  (std::)
     
   
 
