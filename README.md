@@ -6,7 +6,7 @@
   - #include"libraryname.h" //a local project library
 
 ## Namespaces
-- Standard namespace (std):
+- Standard namespace (std): <\b>
    std::cout   std::endl
     
   
