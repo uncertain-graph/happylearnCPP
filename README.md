@@ -7,7 +7,7 @@
 
 ## Namespaces
 - Standard namespace (std): <\b>
-   std::cout   std::endl
+   - std::cout   std::endl
     
   
 
