@@ -13,5 +13,11 @@
     - using namespace name;  write below the #include
     - namespace::identifier  (std::)
     
-  
-
+## User input and output
+- Console output: cout
+- Console input: cin >> variable (Discouraged!)
+  - #include "simpio.h"
+    - getInteger("prompt") repeatedly prompts until an integer is typed; returns it
+    - getReal("prompt") repeatedly prompts until double is typed; returns it
+    - getLine("prompt") prompts and reads/returns an entire line of text
+    - getYesOrNo("prompt")
